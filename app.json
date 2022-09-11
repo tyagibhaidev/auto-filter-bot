@@ -8,7 +8,7 @@
         "Mongo DB"
     ],
     "website": "https://github.com/Galib792",
-    "repository": "https://github.com/Galib792/auto-filter-bot",
+    "repository": "https://github.com/tyagibhaidev/auto-filter-bot",
     "success_url": "https://telegram.dog/Tips_Tik",
     "env": {
         "APP_ID": {
